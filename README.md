@@ -1,15 +1,15 @@
 # **Consumindo a API covid19**
 
 
-### Utilizando os aprendizados em sala de aula, construa um código para consumir a API abaixo
-### Documentação em: https://github.com/mathdroid/covid-19-api
+### Utilizando os aprendizados em sala de aula, construa um código para consumir a API abaixo.
+#### Documentação em: https://github.com/mathdroid/covid-19-api
 ### O Código deverá consumir os seguintes endpoints:
-### /api: resumo global
-### /api/confirmed: casos globais ordenados pelos casos confirmados
-### /api/daily: casos globais diários
-### /api/daily/[date]: casos globais por data.
-### /api/countries: listagem de todos os países com os respectivos códigos ISO
-### /api/countries/[country]: casos filtrados por países.
+#### /api: resumo global
+#### /api/confirmed: casos globais ordenados pelos casos confirmados
+#### /api/daily: casos globais diários
+#### /api/daily/[date]: casos globais por data.
+#### /api/countries: listagem de todos os países com os respectivos códigos ISO
+#### /api/countries/[country]: casos filtrados por países.
 
 # Manual de Uso
 
