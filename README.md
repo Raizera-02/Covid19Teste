@@ -16,7 +16,7 @@
 * Realizar a instalação do NodeJS
 * npm ou yarn
 
-# Start Projeto
+# Iniciando o Projeto
 ### Faça o download do clone do projeto.
 ### entre no cmd navegue até o caminho que esta salvo o clone e execute o comando: 
 * npm i
